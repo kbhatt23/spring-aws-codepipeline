@@ -24,4 +24,4 @@ phases:
 
 artifacts:
   files:
-    - target/hello-world-cicd-0.0.1.jar
+    - target/hello-world-cicd-0.0.5.jar
